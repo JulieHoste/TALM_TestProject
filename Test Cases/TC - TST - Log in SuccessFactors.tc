@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - TST - Log in SuccessFactors</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0830076-e9ed-4978-9810-c52c787e6699</testCaseGuid>
+</TestCaseEntity>

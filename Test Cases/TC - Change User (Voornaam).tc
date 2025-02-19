@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Change User (Voornaam)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b588ef9a-a6d9-428c-ae66-b53d377a1d8f</testCaseGuid>
+</TestCaseEntity>

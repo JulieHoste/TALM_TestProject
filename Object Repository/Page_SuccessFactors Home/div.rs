@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>8007e5a4-96a8-4180-9782-5dc2ada88832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.QSIPopOver.SI_9KzgGtvNt8u4k2a_PopOverContainer > div:nth-of-type(2) > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.QSIPopOver > div:nth-child(2) > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5351297a-21b7-4716-953d-d344f655b417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;sapUiSizeCompact syncHighContrastWithUI5Off&quot;]/body[@class=&quot;fioriShellBarEnabled globalNavigationSansSubNav sapUiSizeCompact globalBackground sapUiBody responsiveLayout ltr hideGlobalFooter&quot;]/div[@class=&quot;QSIPopOver SI_9KzgGtvNt8u4k2a_PopOverContainer&quot;]/div[2]/div[1]</value>
+      <webElementGuid>1338f328-4af7-4620-bea5-90bbb13ff2e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>295e4b00-a772-4623-864c-fbe7970382c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

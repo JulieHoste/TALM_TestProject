@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ui5-li-sf-header_Julie Spoormans-ome-d9b-b4a</name>
+   <tag></tag>
+   <elementGuidId>8bcdcf47-7154-4e52-907e-818ce3e874bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > #shellbarContainer > #shellbar > #search > ui5-li-sf-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//xweb-shellbar-search-input[@id='search']/ui5-li-sf-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#search >> internal:text=&quot;Julie Spoormans&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ui5-li-sf-header</value>
+      <webElementGuid>c45ab35b-6cd9-458f-a589-5e1dd271ef3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-path</name>
+      <type>Main</type>
+      <value>0.items.0</value>
+      <webElementGuid>abfd3363-de40-4b8c-9b08-cc6da7271d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>image</name>
+      <type>Main</type>
+      <value>/eduPhoto/view?companyId=belgianredT1&amp;photo_action=show&amp;photo_type=quickCard&amp;user_id_encoded=F0C428FE854744D2A66D506E887B75DA&amp;mod=</value>
+      <webElementGuid>1d8db820-f365-4eaa-ada4-f039b87b0483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui5-stable</name>
+      <type>Main</type>
+      <value>SearchResult-0.items.0</value>
+      <webElementGuid>bdfe6bb4-c623-4131-94dc-b2d9ef187a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-contact-info</name>
+      <type>Main</type>
+      <value>(+32) (0)15443917</value>
+      <webElementGuid>563cadda-ebe2-4c6a-b47e-5be91d73abd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-description</name>
+      <type>Main</type>
+      <value>Coördinerend projectmanager CPD en Diagnostiek</value>
+      <webElementGuid>c054da19-443d-485c-931a-cb41ef6e7d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-show-profile-button</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>631cec7f-0573-4b47-ae5e-ec14c655060e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-show-profile-accessible-name</name>
+      <type>Main</type>
+      <value>Julie Spoormans Show employee details</value>
+      <webElementGuid>fb05f176-5917-43b0-8fd5-bd463b306c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-show-profile-label</name>
+      <type>Main</type>
+      <value>Show employee details</value>
+      <webElementGuid>8e5dcc0e-67e3-4693-9dcc-5011a11ab132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Julie Spoormans</value>
+      <webElementGuid>1ab0dc0b-2abf-404c-8d62-c7f8fa20976e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@id=&quot;shellbarContainer&quot;]/ui5-shellbar-sf-header[@id=&quot;shellbar&quot;]/xweb-shellbar-search-input[@id=&quot;search&quot;]/ui5-li-sf-header[1]</value>
+      <webElementGuid>9be36b4f-99ae-4275-9eb3-4ffe9d6d100e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SuccessFactors Home/xweb-shellbar_sfThemeRevealerdisplaynone-rs_228f83</value>
+      <webElementGuid>4146ce9a-72f4-49aa-8d51-e345fa56dd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//xweb-shellbar-search-input[@id='search']/ui5-li-sf-header</value>
+      <webElementGuid>ead972e4-c4a4-4b97-bafe-c498ba915f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Julie Spoormans']/parent::*</value>
+      <webElementGuid>53d8d903-a5b7-4894-8368-1bdee315b29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ui5-li-sf-header[(text() = 'Julie Spoormans' or . = 'Julie Spoormans')]</value>
+      <webElementGuid>da94f899-9012-4e92-a737-e313e7994f87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

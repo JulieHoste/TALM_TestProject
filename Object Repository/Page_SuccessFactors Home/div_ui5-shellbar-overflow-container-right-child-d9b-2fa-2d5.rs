@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ui5-shellbar-overflow-container-right-child-d9b-2fa-2d5</name>
+   <tag></tag>
+   <elementGuidId>d358f944-f8e9-4ea1-ac3b-9a23fc2d547c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>header.ui5-shellbar-root.ui5-shellbar-with-searchfield > div.ui5-shellbar-overflow-container.ui5-shellbar-overflow-container-right > div.ui5-shellbar-overflow-container-right-child</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ui5-shellbar-overflow-container-right-child</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8fe0a54-89e4-427f-9531-da7b23e4dfbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui5-shellbar-overflow-container-right-child</value>
+      <webElementGuid>d2ad2ec3-3ced-427d-9ee4-09271320d299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/header[@class=&quot;ui5-shellbar-root ui5-shellbar-with-searchfield&quot;]/div[@class=&quot;ui5-shellbar-overflow-container ui5-shellbar-overflow-container-right&quot;]/div[@class=&quot;ui5-shellbar-overflow-container-right-child&quot;]</value>
+      <webElementGuid>5ac0da7c-a0dd-438b-8350-a087d953bab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SuccessFactors Home/ui5-shellbar-sf-header_HomeAdmin CentreCare_4c54ea</value>
+      <webElementGuid>70943319-d6e8-471b-aa58-b9e64abf8c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0154f8fe-7bea-4761-8112-c785d0b8db12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>96afa3af-2cc2-40ff-bb80-6c9eaee731a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

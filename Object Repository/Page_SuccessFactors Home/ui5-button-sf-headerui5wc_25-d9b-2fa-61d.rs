@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ui5-button-sf-headerui5wc_25-d9b-2fa-61d</name>
+   <tag></tag>
+   <elementGuidId>ea26e5e8-2020-4ea0-8400-257beed9cfc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>header.ui5-shellbar-root.ui5-shellbar-with-searchfield > div.ui5-shellbar-overflow-container.ui5-shellbar-overflow-container-right > div.ui5-shellbar-overflow-container-right-child > #ui5wc_25</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ui5-button-sf-header[@id = 'ui5wc_25']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ui5wc_25</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ui5-button-sf-header</value>
+      <webElementGuid>cd3292ed-9466-4dfa-b535-6979ae4c021c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui5wc_25</value>
+      <webElementGuid>c379cf4c-4ce3-447b-8bbe-77e6999a17b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui5-shellbar-custom-item ui5-shellbar-button</value>
+      <webElementGuid>b521f26b-848c-4662-9a47-a69e17441e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>feedback</value>
+      <webElementGuid>95950603-fc65-47cb-bdd0-aa5c110040e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltip</name>
+      <type>Main</type>
+      <value>Give Product Feedback</value>
+      <webElementGuid>82c7456e-d69c-46b1-a121-dcf075fd2363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui5-external-action-item-id</name>
+      <type>Main</type>
+      <value>ui5wc_25</value>
+      <webElementGuid>eedc1b5c-5e6f-4d0b-99bd-0882e18c9b3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui5-stable</name>
+      <type>Main</type>
+      <value>Feedback</value>
+      <webElementGuid>02a16e18-06ad-4f02-9eaf-0d1bc64b06d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/header[@class=&quot;ui5-shellbar-root ui5-shellbar-with-searchfield&quot;]/div[@class=&quot;ui5-shellbar-overflow-container ui5-shellbar-overflow-container-right&quot;]/div[@class=&quot;ui5-shellbar-overflow-container-right-child&quot;]/ui5-button-sf-header[@id=&quot;ui5wc_25&quot;]</value>
+      <webElementGuid>f7ef9670-a5bb-410e-a15d-6e1f031d4d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SuccessFactors Home/ui5-shellbar-sf-header_HomeAdmin CentreCare_4c54ea</value>
+      <webElementGuid>06b8bf4c-307f-464a-b058-6e43384c4d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ee4a5fd1-3fa5-42e9-98f9-f36197f81770</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ui5-button-sf-header[@id = 'ui5wc_25']</value>
+      <webElementGuid>d5086495-c4da-45eb-8b4e-a3f1abaeb25e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
