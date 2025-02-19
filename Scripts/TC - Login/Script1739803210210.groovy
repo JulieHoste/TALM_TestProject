@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/butto
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/#appointment')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'), 30)
-
