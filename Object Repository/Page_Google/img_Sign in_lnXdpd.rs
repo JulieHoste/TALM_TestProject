@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>67a01023-99c8-4b5f-ba26-d9e319e7c4e9</webElementGuid>
+      <webElementGuid>04b431f7-4e84-43a8-88f7-78b5f01034e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lnXdpd</value>
-      <webElementGuid>893f3b5e-96b3-41d2-9fa6-be32965ed5ea</webElementGuid>
+      <webElementGuid>23baeb82-c446-40fd-853f-2fa1443638c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Google</value>
-      <webElementGuid>e2796f41-f17e-4fbf-8265-dce840a5f376</webElementGuid>
+      <webElementGuid>826830b1-6653-4b8e-836b-2ffd588e69cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>height</name>
       <type>Main</type>
       <value>92</value>
-      <webElementGuid>ee0a4902-c393-4d0b-a08a-17601bae1306</webElementGuid>
+      <webElementGuid>400d7dca-d629-40fe-a872-87a57f9621be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</value>
-      <webElementGuid>6048f970-f5bc-4f08-97ad-2005ddde6c59</webElementGuid>
+      <webElementGuid>a36b614b-5b62-412e-8aa1-567e81dad171</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png 1x, /images/branding/googlelogo/2x/googlelogo_color_272x92dp.png 2x</value>
-      <webElementGuid>1f0c0e9e-fa04-4509-b573-fa44c89bc392</webElementGuid>
+      <webElementGuid>f56a4b2a-7118-4473-92e9-994a82c80d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>width</name>
       <type>Main</type>
       <value>272</value>
-      <webElementGuid>275ffb59-46f4-4869-96ae-0d85564d159e</webElementGuid>
+      <webElementGuid>beb88034-9729-4d5e-b9eb-188ed125b556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-csiid</name>
       <type>Main</type>
       <value>sYm0Z_qYFMnQhbIP9rKB0Ag_1</value>
-      <webElementGuid>42138ec2-084f-4131-8465-5f5a15085d02</webElementGuid>
+      <webElementGuid>883848d0-f6fe-43d7-94ab-2ceb2a0cc859</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-atf</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>b84ed1d9-c7e3-4923-b6bb-294bd8f7172c</webElementGuid>
+      <webElementGuid>7bdbd92d-ec2b-4ad5-b587-702d3ca72741</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 LLD4me yr19Zb LS8OJ&quot;]/div[@class=&quot;k1zIA rSk4se&quot;]/img[@class=&quot;lnXdpd&quot;]</value>
-      <webElementGuid>561158b2-40d5-4b16-ab43-470ab0a94d5c</webElementGuid>
+      <webElementGuid>68c01343-7016-4f5b-9a1e-9ded0b15bd13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Google']</value>
-      <webElementGuid>ddbea374-1b51-4c07-9d56-d3de1d7e47fd</webElementGuid>
+      <webElementGuid>087cbe60-65e9-4478-a642-4dcff67e402d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>de097eed-8eaf-4501-a983-abcd5ac1d52a</webElementGuid>
+      <webElementGuid>c30db822-d010-4b3b-a256-7619c60a28d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Google' and @src = '/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png']</value>
-      <webElementGuid>32e2a6cc-b7aa-4710-ab43-6addc5892693</webElementGuid>
+      <webElementGuid>fc30e4da-f14e-4521-9146-29a31bb54d95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

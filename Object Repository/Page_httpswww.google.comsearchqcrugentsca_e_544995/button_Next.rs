@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Accept all</name>
+   <name>button_Next</name>
    <tag></tag>
-   <elementGuidId>306d1878-440d-4eb7-aad6-74ab7c6fdc74</elementGuidId>
+   <elementGuidId>e06a7905-3ce3-47b3-976c-35ae236d7ff0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#L2AGLb > div.QS5gu.sy4vM</value>
+         <value>#recaptcha-verify-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='L2AGLb']/div</value>
+         <value>//button[@id='recaptcha-verify-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Accept all&quot;i]</value>
+         <value>internal:role=button[name=&quot;Next&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>95cf6e15-c1be-42f5-a7c3-04eec539c27f</webElementGuid>
+      <value>button</value>
+      <webElementGuid>107c5d70-4d34-42a1-adaa-95078f039750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>QS5gu sy4vM</value>
-      <webElementGuid>c7657c1d-e5d3-4892-a579-638ad9f66f00</webElementGuid>
+      <value>rc-button-default goog-inline-block</value>
+      <webElementGuid>0f4732db-791d-4fd3-a090-d6b48813b9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>recaptcha-verify-button</value>
+      <webElementGuid>38283508-2e7c-435b-a276-bebd5e9d9009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>none</value>
-      <webElementGuid>a82b95aa-890b-41a2-99be-9ceb44bf3620</webElementGuid>
+      <value>0</value>
+      <webElementGuid>b8d30078-e618-4afa-9998-46599429883f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Accept all</value>
-      <webElementGuid>61ab2115-e127-4ebb-aedd-cadacc3e6c11</webElementGuid>
+      <value>Next</value>
+      <webElementGuid>3cc78999-1e74-4959-8ccd-eec052eb81e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;L2AGLb&quot;)/div[@class=&quot;QS5gu sy4vM&quot;]</value>
-      <webElementGuid>17d42fad-4f38-4d29-923e-6b4bac040c09</webElementGuid>
+      <value>id(&quot;recaptcha-verify-button&quot;)</value>
+      <webElementGuid>42b9ba5e-84e2-4d82-93d6-828fb1f9be85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_httpswww.google.comsearchqcrugentsca_e_544995/iframe_html1body1div2div4iframe1_c-r4idlrqz2r0c</value>
+      <webElementGuid>b7fd8416-6f42-49b0-90b4-45de6b9ed951</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='recaptcha-verify-button']</value>
+      <webElementGuid>4d646f86-d197-4c39-9be7-3a30ec5d4dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='L2AGLb']/div</value>
-      <webElementGuid>a9adbbe2-cf95-4d9c-8a7f-32256802733d</webElementGuid>
+      <value>//div[@id='rc-imageselect']/div[3]/div[2]/div/div[2]/button</value>
+      <webElementGuid>37b7cc60-44f9-4ada-a176-7c313c8600a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject all'])[1]/following::div[1]</value>
-      <webElementGuid>994c2095-26ba-404a-8377-3b13ec14a344</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If there are none, click skip'])[1]/following::button[6]</value>
+      <webElementGuid>5e8faf8b-7f9c-4fe0-afab-fecb36b413ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='g.co/privacytools'])[1]/following::div[4]</value>
-      <webElementGuid>65f795f3-8e91-454d-9fd3-c69ae4830ea6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bicycles'])[1]/following::button[6]</value>
+      <webElementGuid>96733b5c-25f9-4c77-8b39-814af8e6239f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More options'])[1]/preceding::div[1]</value>
-      <webElementGuid>7f5f5805-ccae-49ee-a175-a367c0021b9e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[2]/preceding::div[2]</value>
-      <webElementGuid>d7c834db-101d-4856-a6cd-694df313bfa3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Accept all']/parent::*</value>
-      <webElementGuid>2c1bf4ab-4316-457c-b122-b361e6b18bf9</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>43967973-2292-4163-87bc-3d30f24b701e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]/div</value>
-      <webElementGuid>e843a0ef-f762-4747-a2dc-bf74548f4178</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>e58ec897-7563-4a63-b08d-a2404b38f4a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Accept all' or . = 'Accept all')]</value>
-      <webElementGuid>574e2ff0-7d8e-4d4d-b07e-85828f696d26</webElementGuid>
+      <value>//button[@id = 'recaptcha-verify-button' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>a4431c62-d861-4d34-924b-c89fac91fcce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
