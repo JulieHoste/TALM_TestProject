@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c292e3cb-e181-4e05-9dc3-4df9a7becdbd</webElementGuid>
+      <webElementGuid>b76057d6-75d5-491f-95fa-08613a16410c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>radio-inline</value>
-      <webElementGuid>770cee27-5b0e-4528-8fd0-8e94a792e076</webElementGuid>
+      <webElementGuid>60420fee-3ed7-4ec5-ad2d-439be73a218e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <value>
                              Medicaid
                         </value>
-      <webElementGuid>f7db15ff-9461-426b-a729-3196ac363d5a</webElementGuid>
+      <webElementGuid>8b6590d9-8c22-4bae-b32d-416160b6391a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/label[@class=&quot;radio-inline&quot;]</value>
-      <webElementGuid>7a934314-9f0f-4559-85c8-56e70b7dc66e</webElementGuid>
+      <webElementGuid>4579e3dd-7647-4485-b57f-019566e52e69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]</value>
-      <webElementGuid>399b8406-0644-4801-a7f4-d08b93619a7b</webElementGuid>
+      <webElementGuid>21289f75-0f69-4142-bdea-4b8ce3ed0e82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::label[2]</value>
-      <webElementGuid>995f18ac-a6ae-4138-ab93-99d59b3cc856</webElementGuid>
+      <webElementGuid>c1927f89-a6ae-4420-9009-2cc5486a4177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date (Required)'])[1]/preceding::label[2]</value>
-      <webElementGuid>136bf0a4-ea2a-4d7c-a0d7-a7188493d967</webElementGuid>
+      <webElementGuid>4abea861-d9d2-4471-8657-9db72c6ebaed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Medicaid']/parent::*</value>
-      <webElementGuid>5b36dedb-4d93-450b-b809-8040cfcbb582</webElementGuid>
+      <webElementGuid>9009b94c-187e-446d-9877-6b0f751e1da4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]</value>
-      <webElementGuid>c6b34922-1119-4e65-9a59-fe661f23c79b</webElementGuid>
+      <webElementGuid>1f5caf5c-9e72-49bf-9617-10a78c4d0e70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +106,6 @@
                         ' or . = '
                              Medicaid
                         ')]</value>
-      <webElementGuid>09e52e58-0890-4c84-bf97-fa3ab729787a</webElementGuid>
+      <webElementGuid>021c8da6-c583-4fac-8a88-5d77469142a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
