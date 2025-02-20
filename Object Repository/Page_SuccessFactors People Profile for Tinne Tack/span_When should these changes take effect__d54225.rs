@@ -3,7 +3,7 @@
    <description></description>
    <name>span_When should these changes take effect__d54225</name>
    <tag></tag>
-   <elementGuidId>8cc8ea66-ca7b-401c-86cc-5777329b0b2d</elementGuidId>
+   <elementGuidId>e3362756-16c4-493e-855f-7a3f8580853a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1fbf7cc8-7729-4cd9-8153-1498854d76ec</webElementGuid>
+      <webElementGuid>aca9b50f-2a87-44df-8cfd-339d8a2a1e49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__picker3-icon</value>
-      <webElementGuid>6ab0a4cd-9ddc-4608-bf56-22c41848d2f0</webElementGuid>
+      <webElementGuid>0676c578-bba9-43c1-ade2-2835b7bfe1fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-sap-ui</name>
       <type>Main</type>
       <value>__picker3-icon</value>
-      <webElementGuid>88b36920-1082-4714-aaec-98b009a6e0e9</webElementGuid>
+      <webElementGuid>cfe72765-443a-40f7-a9fa-ec6ec2252a81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>ae6f52cf-f1c0-4150-998a-8df2eba3c900</webElementGuid>
+      <webElementGuid>c0df0ac7-b10b-4ada-a69a-fdfc38c3862f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>111098f4-ffc9-4bc0-9152-f16fe5709f12</webElementGuid>
+      <webElementGuid>7514c8a3-cb7b-4082-a4cf-9c2926307d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Open Picker</value>
-      <webElementGuid>5845a15a-ce5c-4c76-8692-8e8fc283115f</webElementGuid>
+      <webElementGuid>a73989d3-613d-433b-9de2-9e59d19d7bfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-sap-ui-icon-content</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>1cf5599b-7a09-4bd0-8416-78323fd41f9e</webElementGuid>
+      <webElementGuid>a12a991e-a5e3-423f-a1d6-f17aceca5737</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapUiIcon sapUiIconMirrorInRTL sapUiIconPointer sapMInputBaseIcon</value>
-      <webElementGuid>ca8fda44-3414-4731-8c66-a8874f5138a4</webElementGuid>
+      <webElementGuid>d1cc60ce-6a53-4885-a037-d3d972410262</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__picker3-icon&quot;)</value>
-      <webElementGuid>93b52f01-a92f-4070-9872-e97a19184df3</webElementGuid>
+      <webElementGuid>dd7a8f05-6b5d-4d33-ae49-496781b6ba9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='__picker3-icon']</value>
-      <webElementGuid>63cf6dd6-1e13-4873-90ec-d0a9fcba900f</webElementGuid>
+      <webElementGuid>59731229-6cb0-47f2-ad04-2f61ebc2bc04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__picker3-content']/div/span</value>
-      <webElementGuid>d4305cea-411a-4580-a9c4-1c2c688cd3b0</webElementGuid>
+      <webElementGuid>bc53e8ad-9c7d-4eb4-890b-aa7d3a97c5c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/span</value>
-      <webElementGuid>5d215b02-26d6-41ff-a874-a39635d37191</webElementGuid>
+      <webElementGuid>4ed3ba9c-54be-4d14-8edc-326e20ea691f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '__picker3-icon']</value>
-      <webElementGuid>e5fc76e8-a52d-4dd2-9046-4c08a41aa5fd</webElementGuid>
+      <webElementGuid>d627d567-9f5e-44fb-bca8-d6136e129dcd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

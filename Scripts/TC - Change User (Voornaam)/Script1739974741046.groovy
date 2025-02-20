@@ -21,7 +21,10 @@ WebUI.callTestCase(findTestCase('TC - TST - Log in SuccessFactors'), [:], Failur
 
 WebUI.navigateToUrl('https://hcm2preview.sapsf.eu/sf/liveprofile?selected_user_encoded=46313DFEA18F4B559BD18C3166B1F0BD&_s.crb=Mx05L7ycfLF2AbYqmBhxkrVhVW8NnDAFU9s%2f3EAMzPc%3d')
 
-WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_Personal Information___button53-img'))
+WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_Personal Information___button47-img'))
+
+WebUI.waitForElementClickable(findTestObject('Page_SuccessFactors People Profile for Tinne Tack/span_When should these changes take effect__d54225'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_When should these changes take effect__d54225'))
 
@@ -29,4 +32,9 @@ WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile
 
 WebUI.setText(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/input_Preferred Name___input2-inner'), 
     '')
+
+WebUI.setText(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/input_Formal Name___input3-inner'), 
+    'Tinne Tacks')
+
+WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/bdi_Save'))
 
