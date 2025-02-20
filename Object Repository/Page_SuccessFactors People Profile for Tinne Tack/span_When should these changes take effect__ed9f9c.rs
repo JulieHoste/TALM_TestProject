@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Preferred Name___input2-inner</name>
+   <name>span_When should these changes take effect__ed9f9c</name>
    <tag></tag>
-   <elementGuidId>568e2af6-a11a-45c9-bbcc-d9d50ef916e1</elementGuidId>
+   <elementGuidId>80de9dac-cada-452b-909e-572f720c4c97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#__input2-inner</value>
+         <value>#__picker5-icon</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='__input2-inner']</value>
+         <value>//span[@id='__picker5-icon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Pre­ferred Name&quot;i</value>
+         <value>internal:label=&quot;Open Picker&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>02983dd0-5c5b-44a9-b919-d84e3c6e33b3</webElementGuid>
+      <value>span</value>
+      <webElementGuid>a22dc95d-c4bc-4e1c-933e-559a4bc5f5fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>__input2-inner</value>
-      <webElementGuid>d211a5b7-9673-4460-9cc8-a1182cfc77d6</webElementGuid>
+      <value>__picker5-icon</value>
+      <webElementGuid>de00f2b4-58b8-4ce2-867a-56f862f245c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>data-sap-ui</name>
       <type>Main</type>
-      <value>128</value>
-      <webElementGuid>d2afef5e-0055-4ec5-bd14-7da51ab619af</webElementGuid>
+      <value>__picker5-icon</value>
+      <webElementGuid>d6358e1a-d5ad-488a-9137-a30ef1b5a63b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>role</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>e64b2476-6bb0-4fd3-a78a-cd7a6e2ae298</webElementGuid>
+      <value>presentation</value>
+      <webElementGuid>ca254bc4-23c7-467a-85f7-5505b7243e00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
+      <name>aria-hidden</name>
       <type>Main</type>
-      <value>__label33</value>
-      <webElementGuid>2c08ccb1-11b0-4c95-9519-70d6b9ca839e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>290e17d5-2b38-465b-b709-03d2e230308d</webElementGuid>
+      <value>true</value>
+      <webElementGuid>a9324f93-11fd-4e7e-9399-c4e18da5b21e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>new-password</value>
-      <webElementGuid>b4009530-6e35-4591-93d9-bd1694034e18</webElementGuid>
+      <value>Open Picker</value>
+      <webElementGuid>45f459fb-3211-496c-87c7-8631be002f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ui-icon-content</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>58f8a38f-3c03-402a-8f74-f1cc4995ab3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sapMInputBaseInner</value>
-      <webElementGuid>3f2facce-d93f-4d41-9b99-a09722476cfc</webElementGuid>
+      <value>sapUiIcon sapUiIconMirrorInRTL sapUiIconPointer sapMInputBaseIcon</value>
+      <webElementGuid>7227fbcf-2cda-4bd7-93e6-0bb42061c87b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__input2-inner&quot;)</value>
-      <webElementGuid>cde7be9b-7f3b-43c8-a42e-0ab00889ba2c</webElementGuid>
+      <value>id(&quot;__picker5-icon&quot;)</value>
+      <webElementGuid>388db38b-ac46-40c8-9746-74294ef58dcb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='__input2-inner']</value>
-      <webElementGuid>ed231506-4e0b-428d-8b10-f209d824a17d</webElementGuid>
+      <value>//span[@id='__picker5-icon']</value>
+      <webElementGuid>21196f68-28f3-4fd9-9473-78517aeb6a57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__input2-content']/input</value>
-      <webElementGuid>a8fd898d-b827-4a8a-8391-069b552cd01f</webElementGuid>
+      <value>//div[@id='__picker5-content']/div/span</value>
+      <webElementGuid>c95eb494-ba7d-4d77-b474-66c5c66970fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div[2]/div/div/input</value>
-      <webElementGuid>292c521f-fbc5-40cb-b14f-74de95c0f89c</webElementGuid>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>a9e17df2-8d41-410e-943a-19711edf08f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = '__input2-inner' and @type = 'text']</value>
-      <webElementGuid>36e75121-bae0-4cd1-97fb-d8d7ea2e568f</webElementGuid>
+      <value>//span[@id = '__picker5-icon']</value>
+      <webElementGuid>4959dbdc-3b91-4c34-8bd6-8f5f9342d244</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

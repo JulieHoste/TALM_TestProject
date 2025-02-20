@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2440a0e5-02dd-4b33-b3c1-564256f273c5</webElementGuid>
+      <webElementGuid>f99241e4-b14d-4f43-a433-67a3aed3845b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__button47-img</value>
-      <webElementGuid>71aaa77c-e089-4741-9113-bcf61b8f05e7</webElementGuid>
+      <webElementGuid>429b781d-ad43-4709-a53a-0ada2cfed282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-sap-ui</name>
       <type>Main</type>
       <value>__button47-img</value>
-      <webElementGuid>b3184028-d04b-4b91-a887-50e51fcb79d7</webElementGuid>
+      <webElementGuid>d8351f05-bef4-4148-86db-a7724dff8553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>93ec7160-6026-4623-9a5d-3f1a83bf8aa2</webElementGuid>
+      <webElementGuid>578a7b4a-a3f0-4af8-a048-36d9b109c7cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0506010f-59e9-4a9b-8eb2-615b2a53a9b6</webElementGuid>
+      <webElementGuid>a15ece15-add8-47ee-9e81-bd733fdb0e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-sap-ui-icon-content</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>5849c9fc-56c8-416a-aac0-2d300ae6ace2</webElementGuid>
+      <webElementGuid>fed08f2c-3a7b-4273-95b2-e7830a0cdc91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapUiIcon sapUiIconMirrorInRTL sapMBtnCustomIcon sapMBtnIcon sapMBtnIconLeft</value>
-      <webElementGuid>ff8c0162-a258-4b4e-98cd-77c13bf3f4fd</webElementGuid>
+      <webElementGuid>64c8b8f4-1faa-4d02-bee8-28cb1e763ae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__button47-img&quot;)</value>
-      <webElementGuid>34666776-8790-418e-b18d-5df49d32ac80</webElementGuid>
+      <webElementGuid>b614b1de-9ba3-488d-ac5e-911e4e65cc59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='__button47-img']</value>
-      <webElementGuid>d357ebf8-3113-4815-85cb-fd702cded088</webElementGuid>
+      <webElementGuid>ccb8574a-2205-4a71-ba74-bd2de92ffa95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='__button47-inner']/span</value>
-      <webElementGuid>aa337f13-abab-4a3c-ad51-436021eedd4a</webElementGuid>
+      <webElementGuid>46a2ab0e-d9e3-4cba-b213-bcdf9c2d6c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div/div/div/div/div/span/div/button/span/span</value>
-      <webElementGuid>7b33c1d4-e3b7-45e3-88fa-fad27a76527f</webElementGuid>
+      <webElementGuid>fb5ec891-8670-4e23-9665-276724e2c1cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '__button47-img']</value>
-      <webElementGuid>6469df5d-05a2-4b3b-983e-525536873784</webElementGuid>
+      <webElementGuid>72b4b03b-56b4-4c20-b8fa-823650c2c124</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,12 +23,12 @@ WebUI.navigateToUrl('https://hcm2preview.sapsf.eu/sf/liveprofile?selected_user_e
 
 WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_Personal Information___button47-img'))
 
-WebUI.waitForElementClickable(findTestObject('Page_SuccessFactors People Profile for Tinne Tack/span_When should these changes take effect__d54225'), 
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_When should these changes take effect__d54225'), 
     10)
 
 WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_When should these changes take effect__d54225'))
 
-WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_19'))
+WebUI.click(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/span_20'))
 
 WebUI.setText(findTestObject('Object Repository/Page_SuccessFactors People Profile for Tinne Tack/input_Preferred Name___input2-inner'), 
     '')
