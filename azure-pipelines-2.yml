@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 - task: katalonTask@1
   inputs:
-    version: '8.5.2'
-    executeArgs: '-retry=0 -statusDelay=15 -testSuitePath="Test Suites/New Test Suite" -browserType="Chrome" -apiKey=$(katalon_api_key)'
+    version: '10.1.0'
+    location: katalonc -noSplash -runMode=console -projectPath="C:\Users\hostej\Katalon Studio\Katalon - Julie Test Case\Katalon - Julie Test Case.prj" -retry=0 -testSuiteCollectionPath="Test Suites/TS - Alerts" -browserType="Chrome" -executionProfile="default" -apiKey="" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
