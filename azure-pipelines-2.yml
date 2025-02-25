@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 - task: katalonTask@1
   inputs:
-    version: '8.2.2'
+    version: '8.5.2'
     executeArgs: '-retry=0 -statusDelay=15 -testSuitePath="Test Suites/New Test Suite" -browserType="Chrome" -apiKey=$(katalon_api_key)'
