@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detect Citrix Workspace app</name>
+   <tag></tag>
+   <elementGuidId>16266a63-5fa5-4089-b71d-f5522ffefc32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#protocolhandler-welcome-installButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='protocolhandler-welcome-installButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Detect Citrix Workspace app&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>038b95c1-5c13-4785-9894-31f1574a4ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>protocolhandler-welcome-installButton</value>
+      <webElementGuid>8571aa73-15c1-42cf-9902-8f2dfd791441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcome-use-native-client default button _ctxstxt_DetectReceiver</value>
+      <webElementGuid>612bac0c-a5ab-4d7d-a90a-b0609e1975bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>145f9b0d-4450-4441-bf5a-86e55b23994a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detect Citrix Workspace app</value>
+      <webElementGuid>8d179210-9102-4ff6-9094-3f824a580001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;protocolhandler-welcome-installButton&quot;)</value>
+      <webElementGuid>1b278988-1534-44f8-b23e-76d460f7f1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='protocolhandler-welcome-installButton']</value>
+      <webElementGuid>477c301b-c12c-4727-9592-7d7115b90134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='protocolhandler-welcome']/div/div/div/div/a</value>
+      <webElementGuid>55ee0009-0404-44d0-89b3-d130e30a3950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Detect Citrix Workspace app')]</value>
+      <webElementGuid>c18165eb-823f-4e20-83df-7eeced265d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Citrix Workspace app'])[1]/following::a[1]</value>
+      <webElementGuid>8ee007a7-7f7b-4b3c-842f-fff945f64aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SECURITY INFORMATION'])[2]/following::a[1]</value>
+      <webElementGuid>cffe2745-d92a-4d39-b562-869b1548b0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Launch Application'])[1]/preceding::a[2]</value>
+      <webElementGuid>fe434168-491d-44a0-9d0f-0c137c4b3ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detect Citrix Workspace app']/parent::*</value>
+      <webElementGuid>9a12cfba-283d-471d-9e2e-dea3d39ed2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[75]</value>
+      <webElementGuid>e409bd01-124b-4e8b-89d1-54465de87318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[15]/div/div/div/div/a</value>
+      <webElementGuid>edf5740f-ff15-4d2a-9331-c192146c5625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'protocolhandler-welcome-installButton' and @href = '#' and (text() = 'Detect Citrix Workspace app' or . = 'Detect Citrix Workspace app')]</value>
+      <webElementGuid>a0056fb6-7366-4643-8cdc-ce9c92ead527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__storeapp-action-link theme-highlight-color</name>
+   <tag></tag>
+   <elementGuidId>4ca8c1a3-3746-4685-a3b5-38e4db54f21a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.storeapp-action-link.theme-highlight-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Details&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ffc1cce6-239f-42cf-a97d-dbcb7c6d6fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>88f81b71-73db-4b68-aa34-f8afbd756621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>storeapp-action-link theme-highlight-color</value>
+      <webElementGuid>09b79a07-a686-4896-bd48-bc82ddc300b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Details</value>
+      <webElementGuid>5e3e3fa3-dece-4006-8a0b-252b936dbe9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-screen&quot;)/div[@class=&quot;home-view-content&quot;]/section[@class=&quot;scrollable storeViewSection&quot;]/div[@class=&quot;store-apps-container&quot;]/div[@class=&quot;store-apps-group&quot;]/ul[@class=&quot;storeapp-list&quot;]/li[@class=&quot;storeapp added&quot;]/a[@class=&quot;storeapp-action-link theme-highlight-color&quot;]</value>
+      <webElementGuid>9f1aff74-b812-41f3-a5b1-0dfcc19d2667</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[3]</value>
+      <webElementGuid>93e9cace-3d18-4092-8c41-3ff9b116e9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::a[5]</value>
+      <webElementGuid>313ac501-26be-4f89-8880-7e6a28e1c12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collections'])[2]/following::a[8]</value>
+      <webElementGuid>ba085394-9c83-416f-bd61-bcfaa377674e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No items match your search.'])[1]/preceding::a[1]</value>
+      <webElementGuid>4a42542b-bd8e-4574-abba-eebfce81f3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You do not have any favorite Apps yet.'])[1]/preceding::a[2]</value>
+      <webElementGuid>42e28b3c-f440-49bb-9905-266301cc38b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[49]</value>
+      <webElementGuid>570e8bb5-6e9e-410f-ac7d-6afdb1010bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a[3]</value>
+      <webElementGuid>b438ecf7-36ec-4920-9af5-377f0d512c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>d216ee8c-9078-4211-b2be-9d9d0be5449b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

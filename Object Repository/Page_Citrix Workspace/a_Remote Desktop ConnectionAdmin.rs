@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remote Desktop ConnectionAdmin</name>
+   <tag></tag>
+   <elementGuidId>8dc81498-c8c7-4a22-b0c0-daf4b0080c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.storeapp-details-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Remote Desktop Connection Admin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dacb6ab1-317f-4bc5-a165-cb9ccf98f784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>46660360-0003-48f1-99dd-aa414a3b12f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>storeapp-details-container</value>
+      <webElementGuid>2995593b-ba48-4d40-947a-793ea0280be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remote Desktop ConnectionAdmin</value>
+      <webElementGuid>f2be1bc4-53ca-454e-9cd2-2d0661382521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-screen&quot;)/div[@class=&quot;home-view-content&quot;]/section[@class=&quot;scrollable storeViewSection&quot;]/div[@class=&quot;store-apps-container&quot;]/div[@class=&quot;store-apps-group&quot;]/ul[@class=&quot;storeapp-list&quot;]/li[@class=&quot;storeapp added&quot;]/a[@class=&quot;storeapp-details-container&quot;]</value>
+      <webElementGuid>4fae60b4-a626-4367-b41b-e32bcaba7d5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[2]</value>
+      <webElementGuid>98819bfe-afbc-45e9-be00-b96695782595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::a[4]</value>
+      <webElementGuid>3809674b-37b8-425f-a932-8ca95a2d7af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collections'])[2]/following::a[7]</value>
+      <webElementGuid>0b686739-a39d-48e9-9f17-e88363d9d4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No items match your search.'])[1]/preceding::a[2]</value>
+      <webElementGuid>9a27d3e6-3ddf-4249-9f4b-df62b9015ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You do not have any favorite Apps yet.'])[1]/preceding::a[3]</value>
+      <webElementGuid>e1d34f6a-2616-4290-a4ec-240510ad358b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[48]</value>
+      <webElementGuid>50494895-2802-4ce6-a7e0-492c21bc31b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a[2]</value>
+      <webElementGuid>9a17baeb-7812-4aa2-a809-dd2cbe2f1a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Remote Desktop ConnectionAdmin' or . = 'Remote Desktop ConnectionAdmin')]</value>
+      <webElementGuid>9ae7de4a-6873-45aa-aa20-9f27c2c6d611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

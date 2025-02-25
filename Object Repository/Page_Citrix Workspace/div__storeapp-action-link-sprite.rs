@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__storeapp-action-link-sprite</name>
+   <tag></tag>
+   <elementGuidId>cf04090f-7658-4bf9-a9c4-7b65c8797319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.storeapp-action-link.theme-highlight-color > div.storeapp-action-link-sprite</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Details&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>447c529e-d4f5-431e-9cb9-7a809d96199f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>storeapp-action-link-sprite</value>
+      <webElementGuid>57ffbca7-1a5f-4b34-b7c9-ae4fe39b53c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-screen&quot;)/div[@class=&quot;home-view-content&quot;]/section[@class=&quot;scrollable storeViewSection&quot;]/div[@class=&quot;store-apps-container&quot;]/div[@class=&quot;store-apps-group&quot;]/ul[@class=&quot;storeapp-list&quot;]/li[@class=&quot;storeapp added&quot;]/a[@class=&quot;storeapp-action-link theme-highlight-color&quot;]/div[@class=&quot;storeapp-action-link-sprite&quot;]</value>
+      <webElementGuid>9e63112e-2c62-48a6-aec3-427a1b789a40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-screen']/div[2]/section[5]/div[5]/div/ul/li/a[3]/div</value>
+      <webElementGuid>5deb9de8-e10e-4192-b0f4-63b697d6ca07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a[3]/div</value>
+      <webElementGuid>fc0ccf51-8032-4e82-ab83-9fc7de498802</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

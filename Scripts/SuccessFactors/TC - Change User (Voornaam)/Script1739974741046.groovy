@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC - TST - Log in SuccessFactors'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SuccessFactors/TC - TST - Log in SuccessFactors'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('https://hcm2preview.sapsf.eu/sf/liveprofile?selected_user_encoded=46313DFEA18F4B559BD18C3166B1F0BD&_s.crb=Mx05L7ycfLF2AbYqmBhxkrVhVW8NnDAFU9s%2f3EAMzPc%3d')
 

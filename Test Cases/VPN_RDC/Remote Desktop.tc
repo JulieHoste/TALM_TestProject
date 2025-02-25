@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remote Desktop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92bd79fb-f32f-44bd-b3cd-4b1d1ff8be36</testCaseGuid>
+</TestCaseEntity>

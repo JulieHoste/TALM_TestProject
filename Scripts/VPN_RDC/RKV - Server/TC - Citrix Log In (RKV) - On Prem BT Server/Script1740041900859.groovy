@@ -17,24 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://citrix.rodekruis.be/logon/LogonPoint/tmindex.html')
 
-WebUI.callTestCase(findTestCase('TC - Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/Page_NetScaler AAA/input_User name_login'), 'jhoste')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_NetScaler AAA/input_Password_passwd'), 'ko8H0Q1+OhUhMUmJmlb2+Q==')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/label_Medicaid'))
+WebUI.click(findTestObject('Object Repository/Page_NetScaler AAA/a_Log On'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'))
+WebUI.navigateToUrl('https://citrix.rodekruis.be/Citrix/RODEKRUISWeb/')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_17'))
+WebUI.click(findTestObject('Object Repository/Page_Citrix Workspace/a_Detect Citrix Workspace app'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'This is an appointment')
+WebUI.click(findTestObject('Object Repository/Page_Citrix Workspace/a_Already installed'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+WebUI.click(findTestObject('Object Repository/Page_Citrix Workspace/a_Remote Desktop ConnectionAdmin'))
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/appointment.php#summary')
+WebUI.click(findTestObject('Object Repository/Page_Citrix Workspace/div_Open'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation'), 
-    30)
-
+Runtime.getRuntime().exec("cmd /c mstsc /v:serveradres")

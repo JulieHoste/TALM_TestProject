@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Citrix Log In (RKV) - On Prem BT Server</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9446cf3-d54b-4c8f-a8f3-2f5e0d2be042</testCaseGuid>
+</TestCaseEntity>
