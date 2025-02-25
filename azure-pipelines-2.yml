@@ -20,4 +20,4 @@ steps:
 - task: katalonTask@1
   inputs:
     version: '10.1.0'
-    location: katalonc -noSplash -runMode=console -projectPath="C:\Users\hostej\Katalon Studio\Katalon - Julie Test Case\Katalon - Julie Test Case.prj" -retry=0 -testSuiteCollectionPath="Test Suites/TS - Alerts" -browserType="Chrome" -executionProfile="default" -apiKey="" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
+    location: katalonc -noSplash -runMode=console -projectPath="C:\Users\hostej\Katalon Studio\Katalon - Julie Test Case\Katalon - Julie Test Case.prj" -retry=0 -testSuitePath="Test Suites/TS - Alerts" -browserType="Chrome" -executionProfile="default" -apiKey="a0d2a3a7-65e3-48a5-bfb3-b6017f8055cb" -testOpsProjectId=1966177 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
